@@ -4,7 +4,7 @@ Welcome 👋, I'm Kamil Wójcik.
 <br>
 I'm 20 years old, IT student. I build
 
-## 🛠 Technologies used
+## 🛠 Main Technologies
 <ul>
 
   <li>
