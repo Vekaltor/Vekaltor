@@ -50,6 +50,8 @@ I'm 20 years old, IT student. I build
 ## :technologist: Technologies for learning in the near future 
 <img src="https://user-images.githubusercontent.com/56607344/198056967-258991e4-0587-44c9-af03-9cd55d2cbdf8.svg" />
 <img src="https://user-images.githubusercontent.com/56607344/198055364-41d18947-b7a4-4baa-b78b-e66d0586a974.svg" />
+<img src="https://user-images.githubusercontent.com/56607344/198053971-432dee49-b628-42db-9b46-379c40d256c0.svg" />
+<img src="https://user-images.githubusercontent.com/56607344/198054739-7166c56c-a897-4c13-af51-94ceb744ae64.svg" />
 
 ## Statistics
 
