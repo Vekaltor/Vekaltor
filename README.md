@@ -1,8 +1,11 @@
 # <p align="center">Kamil Wójcik :sunglasses: </p>
 ## 🙍 About me
 Welcome 👋, I'm Kamil Wójcik.
-<br>
-I'm 20 years old, IT student. I build
+<br><br>
+I'm 20 years old, I'm IT student. Currently, I am trying to improving my knowledge and skills in building web applications. I mainly build projects in React technology. I also tried with the Angular framework in the past.
+<br><br>
+I'm currently working on the "Ravintola" website that simulates the operation of restaurant websites.
+
 
 ## 🛠 Main Technologies
 <ul>
