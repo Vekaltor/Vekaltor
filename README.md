@@ -55,11 +55,12 @@ I'm 20 years old, IT student. I build
 
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vekaltor&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vekaltor&theme=react&hide_border=true&include_all_commits=false&count_private=false"/>
 </div>
 
 
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Vekaltor&theme=react&hide_border=true)<br/> -->
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=Vekaltor&theme=react&hide_border=true)<br/> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Vekaltor&theme=react&hide_border=true&include_all_commits=false&count_private=false"/>
+-->
 
 
 <!--
