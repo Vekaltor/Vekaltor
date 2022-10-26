@@ -53,8 +53,8 @@ I'm 20 years old, IT student. I build
 
 ## Statistics
 
-<div> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vekaltor&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vekaltor&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vekaltor&theme=react&hide_border=true&include_all_commits=false&count_private=false"/>
 </div>
 
