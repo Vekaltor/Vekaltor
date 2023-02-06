@@ -2,7 +2,7 @@
 ## 🙍 About me
 Welcome 👋, I'm Kamil Wójcik.
 <br><br>
-I'm 20 years old, I'm IT student. Currently, I am trying to improving my knowledge and skills in building web applications. I mainly build projects in React technology. I also tried with the Angular framework in the past.
+I'm 20 years old, I'm IT student. Currently, I am improving my knowledge and skills in building web applications. I mainly build projects in React technology. I also tried with the Angular framework in the past.
 <br><br>
 I'm currently working on the "Ravintola" website that simulates the operation of restaurant websites.
 
