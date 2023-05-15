@@ -14,7 +14,8 @@ I am currently working on a "react-chat" web application that will enable login/
     Languages: 
     <img src="https://user-images.githubusercontent.com/56607344/198053954-7d0fe696-0a0f-41d7-922c-6371e1188e22.svg" />
     <img src="https://user-images.githubusercontent.com/56607344/198053944-a499af42-93b5-47ff-906e-c9acf0d24dc5.svg" />
-    <img src="https://user-images.githubusercontent.com/56607344/198055897-867bf1c5-7e05-4b5d-9035-0b3553e8f110.svg"/>
+    <img src="https://user-images.githubusercontent.com/56607344/198055897-867bf1c5-7e05-4b5d-9035-0b3553e8f110.svg" />
+    <img src="https://user-images.githubusercontent.com/56607344/198053971-432dee49-b628-42db-9b46-379c40d256c0.svg" />
   </li>
   <li>
     Frontend: 
@@ -24,7 +25,6 @@ I am currently working on a "react-chat" web application that will enable login/
     Libraries: 
     <img src="https://user-images.githubusercontent.com/56607344/198055434-55032412-bbe1-48d5-a4ef-955e60c4fa2e.svg"/>
     <img src="https://user-images.githubusercontent.com/56607344/198055449-f89541ed-9832-4e0e-90c3-131478480824.svg" />
-     <img src="https://user-images.githubusercontent.com/56607344/198054948-d1fc8556-beae-494f-bf25-9ba6961f3fc5.svg" />
   </li>
 
 </ul>
@@ -33,12 +33,9 @@ I am currently working on a "react-chat" web application that will enable login/
 
 <ul>
   <li>
-    Languages: 
-    <img src="https://user-images.githubusercontent.com/56607344/198053971-432dee49-b628-42db-9b46-379c40d256c0.svg" />
-  </li>
-  <li>
     Libraries:  
     <img src="https://user-images.githubusercontent.com/56607344/198055032-619da66b-8a5e-4bd2-bd68-fc5d31ac47b6.svg" />
+      <img src="https://user-images.githubusercontent.com/56607344/198054948-d1fc8556-beae-494f-bf25-9ba6961f3fc5.svg" />
   </li>
   <li>
     Frameworks:
@@ -53,7 +50,6 @@ I am currently working on a "react-chat" web application that will enable login/
 ## :technologist: Technologies for learning in the near future 
 <img src="https://user-images.githubusercontent.com/56607344/198056967-258991e4-0587-44c9-af03-9cd55d2cbdf8.svg" />
 <img src="https://user-images.githubusercontent.com/56607344/198055364-41d18947-b7a4-4baa-b78b-e66d0586a974.svg" />
-<img src="https://user-images.githubusercontent.com/56607344/198053971-432dee49-b628-42db-9b46-379c40d256c0.svg" />
 <img src="https://user-images.githubusercontent.com/56607344/198054739-7166c56c-a897-4c13-af51-94ceb744ae64.svg" />
 
 ## Statistics
