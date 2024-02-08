@@ -2,10 +2,10 @@
 ## 🙍 About me
 Welcome 👋, I'm Kamil Wójcik.
 <br><br>
-I'm 20 years old, I'm IT student. Currently, I am improving my knowledge and skills in building web applications. I mainly build projects in React technology. I also tried with the Angular framework in the past.
-<br><br>
-I am currently working on a "react-chat" web application that will enable login/registration and communication between friends (a project that simulates the operation of a messenger) - with JWT sockets. Also, I'm learning new technology now like node.js
+I am 21 years old, I work at BBCR as a Junior Front-end Developer and I am studying computer science at the Lublin University of Technology. 
+In my free time, I improve my knowledge and skills in building web applications. I build projects mainly in React and Angular technologies.
 
+I am also learning backend technologies such as node.js/express.js - I used them in the react-chat project. In the future, I aspire to become a full-stack developer
 
 ## 🛠 Main Technologies
 <ul>
@@ -20,11 +20,12 @@ I am currently working on a "react-chat" web application that will enable login/
   <li>
     Frontend: 
     <img src="https://user-images.githubusercontent.com/56607344/198053389-0d8d7a9f-e6c9-4233-b272-b86b0399e32c.svg" />
+    <img src="https://user-images.githubusercontent.com/56607344/198054739-7166c56c-a897-4c13-af51-94ceb744ae64.svg" />
   </li>
   <li>
     Libraries: 
-    <img src="https://user-images.githubusercontent.com/56607344/198055434-55032412-bbe1-48d5-a4ef-955e60c4fa2e.svg"/>
     <img src="https://user-images.githubusercontent.com/56607344/198055449-f89541ed-9832-4e0e-90c3-131478480824.svg" />
+    <img src="https://user-images.githubusercontent.com/56607344/198054948-d1fc8556-beae-494f-bf25-9ba6961f3fc5.svg" />
   </li>
 
 </ul>
@@ -35,12 +36,11 @@ I am currently working on a "react-chat" web application that will enable login/
   <li>
     Libraries:  
     <img src="https://user-images.githubusercontent.com/56607344/198055032-619da66b-8a5e-4bd2-bd68-fc5d31ac47b6.svg" />
-      <img src="https://user-images.githubusercontent.com/56607344/198054948-d1fc8556-beae-494f-bf25-9ba6961f3fc5.svg" />
   </li>
-  <li>
+<!--   <li>
     Frameworks:
-    <img src="https://user-images.githubusercontent.com/56607344/198054739-7166c56c-a897-4c13-af51-94ceb744ae64.svg" />
-  </li>
+    
+  </li>-->
    <li>
     Preprocessors:
     <img src="https://user-images.githubusercontent.com/56607344/198057093-9d77de35-9f62-49ac-b4e6-c6d9dc60a1b0.svg" />
@@ -50,7 +50,6 @@ I am currently working on a "react-chat" web application that will enable login/
 ## :technologist: Technologies for learning in the near future 
 <img src="https://user-images.githubusercontent.com/56607344/198056967-258991e4-0587-44c9-af03-9cd55d2cbdf8.svg" />
 <img src="https://user-images.githubusercontent.com/56607344/198055364-41d18947-b7a4-4baa-b78b-e66d0586a974.svg" />
-<img src="https://user-images.githubusercontent.com/56607344/198054739-7166c56c-a897-4c13-af51-94ceb744ae64.svg" />
 
 ## Statistics
 
