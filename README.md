@@ -6,9 +6,11 @@ I’m 23 years old, a Front-end Developer with over 2 years of professional expe
 
 I specialize in Angular and React, combining commercial project experience with API development practice.
 
-I was a finalist of HackYeah 2024, where I co-created the CountryBike project – an initiative that combined my technical expertise with creativity and strong teamwork.
+At the moment, I am working on my engineering thesis – developing a no-code business process automation system.
 
-I am constantly improving my skills and also exploring backend technologies like Express and Spring Boot, as well as mobile development with FlutterFlow. My goal is to become a versatile full-stack developer.
+In 2024, I was a finalist of HackYeah, co-creating the CountryBike project, which combined my technical expertise with creativity and teamwork.
+
+I am constantly improving my skills and exploring backend technologies like Express and Spring Boot, as well as mobile development with FlutterFlow. My goal is to become a versatile full-stack developer.
 
 ## 🛠 Main Technologies
 <ul>
