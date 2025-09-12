@@ -2,10 +2,13 @@
 ## 🙍 About me
 Welcome 👋, I'm Kamil Wójcik.
 <br><br>
-I am 21 years old, I work at BBCR as a Junior Front-end Developer and I am studying computer science at the Lublin University of Technology. 
-In my free time, I improve my knowledge and skills in building web applications. I build projects mainly in React and Angular technologies.
+I’m 23 years old, a Front-end Developer with over 2 years of professional experience, currently working at StartuZeo and studying Computer Science at the Lublin University of Technology.
 
-I am also learning backend technologies such as node.js/express.js - I used them in the react-chat project. In the future, I aspire to become a full-stack developer
+I specialize in Angular and React, combining commercial project experience with API development practice.
+
+I was a finalist of HackYeah 2024, where I co-created the CountryBike project – an initiative that combined my technical expertise with creativity and strong teamwork.
+
+I am constantly improving my skills and also exploring backend technologies like Express and Spring Boot, as well as mobile development with FlutterFlow. My goal is to become a versatile full-stack developer.
 
 ## 🛠 Main Technologies
 <ul>
