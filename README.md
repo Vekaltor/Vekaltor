@@ -2,7 +2,7 @@
 ## 🙍 About me
 Welcome 👋, I'm Kamil Wójcik.
 <br><br>
-I’m 23 years old, a Front-end Developer with over 2 years of professional experience, currently working at StartuZeo and studying Computer Science at the Lublin University of Technology.
+I’m 23 years old, a Front-end Developer with over 2 years of professional experience, currently working at BBCR (SebaPola.pl) and studying Computer Science at the Lublin University of Technology.
 
 I specialize in Angular and React, combining commercial project experience with API development practice.
 
