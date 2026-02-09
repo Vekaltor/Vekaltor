@@ -72,12 +72,6 @@ I am constantly improving my skills and exploring backend technologies like Expr
 ## :technologist: Technologies for learning in the near future 
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
-## Statistics
-
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vekaltor&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
 
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=Vekaltor&theme=react&hide_border=true)<br/> 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Vekaltor&theme=react&hide_border=true&include_all_commits=false&count_private=false"/>
